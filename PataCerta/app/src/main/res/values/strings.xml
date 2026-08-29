@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PataCerta</string>
+
+    <!-- Onboarding -->
+    <string name="onboarding_title_1">Cuide do seu pet em um só lugar</string>
+    <string name="onboarding_desc_1">Vacinas, consultas, peso e passeios — tudo organizado e com lembretes automáticos.</string>
+    <string name="onboarding_title_2">Nunca mais perca uma vacina</string>
+    <string name="onboarding_desc_2">Receba notificações automáticas antes de cada vacina, vermífugo ou remédio vencer.</string>
+    <string name="onboarding_title_3">Encontre ajuda perto de você</string>
+    <string name="onboarding_desc_3">Localize clínicas veterinárias próximas em segundos, onde quer que você esteja.</string>
+    <string name="btn_start">Começar</string>
+    <string name="btn_already_have_account">Já tenho conta · Entrar</string>
+
+    <!-- Auth -->
+    <string name="login_title">Bem-vindo(a) de volta</string>
+    <string name="login_subtitle">Entre para continuar cuidando do seu melhor amigo.</string>
+    <string name="hint_email">E-mail</string>
+    <string name="hint_password">Senha</string>
+    <string name="btn_login">Entrar</string>
+    <string name="btn_register">Cadastre-se gratuitamente</string>
+    <string name="no_account">Não tem conta?</string>
+    <string name="error_invalid_email">Informe um e-mail válido</string>
+    <string name="error_invalid_password">A senha deve ter ao menos 6 caracteres</string>
+    <string name="error_login_failed">Não foi possível entrar. Verifique seus dados.</string>
+
+    <!-- Home -->
+    <string name="home_greeting">Olá, %1$s</string>
+    <string name="my_pets">Meus pets</string>
+    <string name="see_all">Ver todos</string>
+    <string name="add_pet">Adicionar</string>
+    <string name="upcoming_reminders">Próximos lembretes</string>
+    <string name="health_summary">Resumo de saúde</string>
+
+    <!-- Pet profile -->
+    <string name="vaccination_card">Carteira de vacinação</string>
+    <string name="weight_over_time">Peso ao longo do tempo</string>
+    <string name="add_reminder_for">+ Novo lembrete para %1$s</string>
+
+    <!-- Reminder -->
+    <string name="new_reminder">Novo lembrete</string>
+    <string name="reminder_type_vaccine">Vacina</string>
+    <string name="reminder_type_medicine">Remédio</string>
+    <string name="reminder_type_walk">Passeio</string>
+    <string name="save_reminder">Salvar lembrete</string>
+
+    <!-- Locator -->
+    <string name="search_clinic_hint">Buscar clínica ou veterinário</string>
+    <string name="nearby_clinics">Clínicas próximas</string>
+
+    <!-- Notifications -->
+    <string name="notifications_title">Notificações</string>
+
+    <!-- Bottom nav -->
+    <string name="nav_home">Início</string>
+    <string name="nav_pets">Pets</string>
+    <string name="nav_map">Mapa</string>
+    <string name="nav_profile">Perfil</string>
+</resources>
