@@ -1,9 +1,0 @@
-// Top-level build file onde configurações comuns a todos os módulos são definidas.
-plugins {
-    id 'com.android.application' version '8.4.1' apply false
-    id 'com.android.library' version '8.4.1' apply false
-}
-
-task clean(type: Delete) {
-    delete rootProject.buildDir
-}
